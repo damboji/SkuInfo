@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ww.dileep</groupId>
-	<artifactId>SkuInfo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>SkuInfo</name>
+	<artifactId>skuinfo</artifactId>
+    <version>1.0-WW</version>
+	<name>skuinfo</name>
 	<description>Demo project for WW</description>
 	<properties>
 		<java.version>1.8</java.version>
